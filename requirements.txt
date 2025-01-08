@@ -13,3 +13,4 @@ html2text
 chromadb
 streamlit
 streamlit_chat
+sentence-transformers
