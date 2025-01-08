@@ -432,7 +432,7 @@ luxembourg_data_retriever_tool=create_retriever_tool(retriever8,"luxembourg_sear
                       "Search for information about Luxembourg University. For any questions about Luxembourg University, you must use this tool!")
 
 
-tools=[eumaster4hpc_data_retriever_tool, fib_data_retriever_tool, usi_data_retriever_tool, milano_data_retriever_tool, fau_data_retriever_tool,eurohpc_data_retriever_tool,kth_data_retriever_tool,luxembourg_data_retriever_tool, usi_data_retriever_tool]
+tools=[eumaster4hpc_data_retriever_tool, fib_data_retriever_tool, usi_data_retriever_tool, milano_data_retriever_tool, fau_data_retriever_tool,eurohpc_data_retriever_tool,kth_data_retriever_tool,luxembourg_data_retriever_tool]
 
 
 tools
