@@ -20,7 +20,7 @@ from langchain.hub import pull
 from langchain_openai import AzureChatOpenAI
 from langchain.agents import create_openai_tools_agent
 from langchain.agents import AgentExecutor
-from langchain_huggingface import HuggingFaceEmbeddings
+from langchain.embeddings import HuggingFaceEmbeddings
 
 
 #EUMASTER4HPC DATA
